@@ -1,0 +1,65 @@
+/* About us */
+
+
+.contact-us {
+    width: auto;
+    background: #ffffff;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    justify-content: center;
+}
+
+.animation {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    width: flex;
+    max-width: 50%;
+    min-width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+
+.contact-form-title {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    width: flex;
+    max-width: 50%;
+    min-width: 50%;
+    margin: auto;
+    font-family: sans-serif;
+    color: rgb(242, 140, 165);
+    text-align: left;
+    
+   
+}
+
+.row {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding-bottom: 5%;
+    width: 100%;
+    color: rgb(242, 140, 165);
+    font-family: sans-serif;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgb(242, 140, 165);
+    border-color: rgb(242, 140, 165);
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: rgb(129, 126, 126);
+    border-color: rgb(129, 126, 126);
+}
+
+
+
